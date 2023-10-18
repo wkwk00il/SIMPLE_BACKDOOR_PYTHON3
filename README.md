@@ -1,5 +1,5 @@
 # SIMPLE_BACKDOOR_PYTHON3
-This is a very simple backdoor written for fun. It is written using Pthon3 and supports Cyrillic character recognition.
+This is a very simple backdoor written for fun. It is written using Python3 and supports Cyrillic character recognition.
 
 
 To use the backdoor, you need to start listening on some port on your device. To do this, use the command:
